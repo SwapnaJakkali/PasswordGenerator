@@ -14,4 +14,5 @@ uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 symbols = "!@#$%^&*"
 numbers = "123456789"
 passwordgen(length , lowercase , uppercase , symbols , numbers)
+#--------*-------------*---------------*----------------------
 
